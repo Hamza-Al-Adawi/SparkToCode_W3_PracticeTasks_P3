@@ -38,6 +38,7 @@
             {
                 Console.WriteLine("Invalid score entered.");
             }
+            //
         }
     }
 }

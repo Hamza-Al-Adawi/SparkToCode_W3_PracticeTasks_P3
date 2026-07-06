@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //
             Console.Write("please enter a password: ");
             string password = Console.ReadLine();
 
