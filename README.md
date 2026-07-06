@@ -1,18 +1,8 @@
-# C# Research Assignment
+# C# Fundamentals Part 3 – Practice Tasks
 
-This repository contains my submission for the Spark To Code 2026 C# research assignment.
+This repository contains my work for **Spark To Code 2026 – Session 3**.
 
-## What I Covered
+In this session, I learned how to use C# built-in functions, especially **Math**, **String**, and **DateTime** functions. At first, some of the tasks were a little challenging, but they helped me understand how functions can make programs simpler and more efficient. By practicing these problems, I became more comfortable using different built-in methods and choosing the right one for each situation.
 
-* Introduction to C#
-* History of C#
-* Main features of C#
-* Common uses of C#
-* Advantages and disadvantages
-* Comparison with other programming languages
-* Future of C#
-* References *(will be updated later)*
-
-## Notes
-
-Most of the assignment has been completed. I will continue reviewing the research, improve the content, and add any missing references later.
+The assignment includes 12 practice tasks that focus on applying these concepts in small console applications while following the topics covered during the session.
+```
