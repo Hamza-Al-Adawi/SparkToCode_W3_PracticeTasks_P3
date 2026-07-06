@@ -19,6 +19,7 @@
             Console.WriteLine("-- The power of number (" + firstNumber + ") is : " + ppp );
             Console.WriteLine("");
             Console.WriteLine("");
+            //
           
         }
     }

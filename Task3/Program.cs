@@ -16,5 +16,5 @@
             Console.WriteLine("Total number of characters in your name is: " + count);
 
         }
-    }
+    }//
 }
